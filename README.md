@@ -1,5 +1,7 @@
 ## Hi there 👋
-l
+I'm a motivated web developer with 3 years of experince in designing and developing web applications.Expertise in Php,JavaScript,Html and CSS.
+I'm capable of writing clean codes and learning new programming languages ​​and frameworks.
+Interested in using the best practises in programming
 <!--
 **mrahmadi-dev/mrahmadi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
